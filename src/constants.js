@@ -135,7 +135,7 @@ export const SkillsInfo = [
       image: tictacLogo,
       tags: ["HTML", "Tailwind CSS", "JavaScript", "API"],
       github: "https://github.com/yashinatorx/weatherAPI",
-      webapp: "https://yashinatorx.github.io/weatherAPI/",
+      webapp: "https://weatherapp-blond-chi.vercel.app/",
     },
     {
       id: 3,
