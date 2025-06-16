@@ -132,7 +132,7 @@ export const SkillsInfo = [
       title: "Weather API",
       description:
          "Developed a live weather dashboard by integrating third-party APIs to fetch and display city-specific weather details. Emphasized clean UI design, API key security, and dynamic data rendering to ensure a real-time experience for users.",
-      image: tictacLogo,
+      image:  weatherLogo,
       tags: ["HTML", "Tailwind CSS", "JavaScript", "API"],
       github: "https://github.com/yashinatorx/weatherAPI",
       webapp: "https://weatherapp-blond-chi.vercel.app/",
@@ -142,7 +142,7 @@ export const SkillsInfo = [
       title: "Tic-Tac-Toe Game",
       description:
         "An interactive X/O (Tic Tac Toe) game built with JavaScript, offering both single-player mode against a basic AI and multiplayer mode for two users. Designed with a clean interface and responsive layout using Tailwind CSS, the game provides a smooth and fun user experience directly in the browser.",
-      image: weatherLogo,
+      image: tictacLogo,
       tags: ["HTML", "Tailwind CSS", "JavaScript"],
       github: "https://github.com/yashinatorx/xogame3",
       webapp: "https://yashinatorx.github.io/xogame3/",
