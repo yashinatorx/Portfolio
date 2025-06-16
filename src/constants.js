@@ -133,7 +133,7 @@ export const SkillsInfo = [
       description:
          "Developed a live weather dashboard by integrating third-party APIs to fetch and display city-specific weather details. Emphasized clean UI design, API key security, and dynamic data rendering to ensure a real-time experience for users.",
       image:  weatherLogo,
-      tags: ["HTML", "Tailwind CSS", "JavaScript", "API"],
+      tags: ["HTML", "Tailwind CSS", "JavaScript", "React JS","API"],
       github: "https://github.com/yashinatorx/weatherAPI",
       webapp: "https://weatherapp-blond-chi.vercel.app/",
     },
